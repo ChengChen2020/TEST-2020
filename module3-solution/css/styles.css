@@ -14,7 +14,6 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
-
 .navbar-brand a {
 	color: #000;
 	font-weight: bold;
@@ -45,7 +44,6 @@ h1 {
 	background-color: grey;
 	margin: 10px 10px 10px 10px;
 }
-
 .mtitle {
 	text-align: center;
 	font-weight: bold;
